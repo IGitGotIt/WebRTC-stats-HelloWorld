@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F4076635-0313-4E3E-AA76-3E1AB980E4EA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OpenTokHelloWorld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>56E2EAE0-AF24-4D05-A953-9F96F1C9B2A4</key>
+		<string>https://github.com/opentok/OpenTok-iOS-Hello-World.git</string>
+		<key>95022B9C-15FC-4047-ACA3-8D221744B544</key>
+		<string>https://github.com/opentok/opentok-ios-sdk-webrtc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>samples/OpenTokHelloWorld/OpenTokHelloWorld.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>56E2EAE0-AF24-4D05-A953-9F96F1C9B2A4</key>
+		<string>../..</string>
+		<key>95022B9C-15FC-4047-ACA3-8D221744B544</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/opentok/opentok-ios-sdk-webrtc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>95022B9C-15FC-4047-ACA3-8D221744B544</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>95022B9C-15FC-4047-ACA3-8D221744B544</string>
+			<key>IDESourceControlWCCName</key>
+			<string>opentok-ios-sdk-webrtc</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>56E2EAE0-AF24-4D05-A953-9F96F1C9B2A4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OpenTokHelloWorld</string>
+		</dict>
+	</array>
+</dict>
+</plist>
